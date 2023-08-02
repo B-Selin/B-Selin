@@ -14,7 +14,7 @@ I'm a financial auditor pivoting into software engineering. My educational path 
 
 ### 🚀 Beyond Code
 
-Beyond the realm of coding, my vision extends towards making a positive global impact. I relish in the art of problem-solving and analytical thinking, finding joy in both mending and enhancing. I'm enthusiastic about sharing knowledge and assisting fellow developers in surmounting obstacles. Through relentless learning, ceaseless curiosity, and a dash of creativity, I'm shaping a future where technology converges harmoniously with human betterment.
+I love coding, it wouldn't be a lie if I say it became my passion. Coding is my chance to fix whatever is broken, it is my chance to help other developers and learn with them. Through ceaseless curiosity, and a dash of creativity, I look forward to shaping a future where technology concides harmoniously with human betterment.
 
 Let's connect and collaborate! Feel free to reach out if you share my zeal for coding, innovation, or if you simply want to explore the ever-evolving tech landscape.
 
