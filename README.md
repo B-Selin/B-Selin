@@ -7,8 +7,8 @@ A determined software enthusiast on a journey to become an exceptional software 
 I'm a financial auditor pivoting into software engineering. My educational path has been diverse, encompassing economics, auditing, and a year of college for computer science. My heart is set on becoming a proficient software engineer. I've explored JavaScript, CSS, HTML, and Python, and I'm currently diving into Django while actively crafting projects utilizing the MERN (MongoDB, Express, React, Node) stack. 
 
 ### 🌟 Latest Project
-
-- [LeBlanc Family Recipes](https://leblanc-recipes-d950544771a6.herokuapp.com/) 
+- [Woof and Wander](https://github.com/B-Selin/WoofAndWander) 
+- [LeBlanc Family Recipes](https://github.com/B-Selin/recipe-blog) 
 - [Mastermind by Selin](https://b-selin.github.io/mastermind)
 
 
