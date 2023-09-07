@@ -9,7 +9,7 @@ I'm a software engineer pivoting from financial audit. My educational path has b
 ### 🌟 Latest Projects
 
 You can check out my portfolio, or directly visit one of the deployed apps from here:
-- [Portfolio](https://https://b-selin.github.io)
+- [Portfolio](https://b-selin.github.io)
   
 - [Celestre](https://github.com/B-Selin/celestre) 
 - [Woof and Wander](https://github.com/B-Selin/WoofAndWander) 
